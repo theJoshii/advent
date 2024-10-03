@@ -30,6 +30,38 @@ public class App {
                     // one
                     if (currentSymbol == 111) {
                         
+                    }
+                    // two
+                    if (currentSymbol == 111) {
+                        
+                    }
+                    // three
+                    if (currentSymbol == 111) {
+                        
+                    }
+                    // four
+                    if (currentSymbol == 111) {
+                        
+                    }
+                    // five
+                    if (currentSymbol == 111) {
+                        
+                    }
+                    // six
+                    if (currentSymbol == 111) {
+                        
+                    }
+                    // seven
+                    if (currentSymbol == 111) {
+                        
+                    } 
+                    // eight 
+                    if (currentSymbol == 111) {
+                        
+                    }
+                    // nine
+                    if (currentSymbol == 111) {
+                        
                     }  
                     continue;
                 }  
